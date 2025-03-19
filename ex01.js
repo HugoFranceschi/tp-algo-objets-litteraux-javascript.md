@@ -3,7 +3,7 @@ function afficherInfosPersonne(personne) {
 		personne.nom +
 		" a " +
 		personne.age +
-		"ans et habite à " +
+		" ans et habite à " +
 		personne.ville +
 		".";
 
